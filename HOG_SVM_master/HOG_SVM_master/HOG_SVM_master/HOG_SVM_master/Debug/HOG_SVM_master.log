@@ -1,0 +1,40 @@
+﻿生成启动时间为 2017/5/23 17:25:47。
+     1>项目“F:\RANJIEWEN\CLQ_C_code\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "HOG-master\mydef.c"
+         mydef.c
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(14): warning C4005: “SHRT_MIN”: 宏重定义
+                 d:\program files\microsoft visual studio 12.0\vc\include\limits.h(36) : 参见“SHRT_MIN”的前一个定义
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(206): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(688): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(779): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(867): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(868): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(974): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1001): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1003): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1223): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1228): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1230): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1276): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1281): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1283): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1321): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1346): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\ranjiewen\clq_c_code\hog_svm_master\hog_svm_master\hog_svm_master\hog_svm_master\hog-master\mydef.c(1356): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\RANJIEWEN\CLQ_C_code\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\Debug\HOG_SVM_master.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\RANJIEWEN\CLQ_C_code\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\Debug\HOG_SVM_master.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\RANJIEWEN\CLQ_C_code\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\Debug\HOG_SVM_master.lib" /MACHINE:X86 Debug\mydef.obj
+         Debug\mypeopledetect.obj
+         Debug\vec.obj
+         Debug\readbmp.obj
+         HOG_SVM_master.vcxproj -> F:\RANJIEWEN\CLQ_C_code\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\Debug\HOG_SVM_master.exe
+     1>已完成生成项目“F:\RANJIEWEN\CLQ_C_code\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master\HOG_SVM_master.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88
